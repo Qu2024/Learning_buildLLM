@@ -6,10 +6,7 @@ dist/
 build/
 .venv/
 
-# Data
-data/*.txt
-data/*.json
-data/*.bin
+# Data（保留 the-verdict.txt 等学习用样本）
 *.pt
 *.pth
 *.ckpt
