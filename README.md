@@ -116,9 +116,9 @@ buildLLM/
 
 用来跟踪你的进度，完成后打勾：
 
-- [ ] Chapter 1: Understanding Large Language Models
-- [ ] Chapter 2: Working with Text Data
-- [ ] Chapter 3: Coding Attention Mechanisms
+- [Done] Chapter 1: Understanding Large Language Models
+- [Done] Chapter 2: Working with Text Data
+- [Done] Chapter 3: Coding Attention Mechanisms
 - [ ] Chapter 4: Implementing a GPT Model from Scratch
 - [ ] Chapter 5: Pretraining on Unlabeled Data
 - [ ] Chapter 6: Fine-tuning for Classification
